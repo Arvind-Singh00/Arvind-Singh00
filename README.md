@@ -7,7 +7,7 @@
 
 <!-- ============ TYPING HERO ============ -->
 <a href="https://github.com/Arvind-Singh00">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=28&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Arvind+%F0%9F%91%8B;Software+Engineer+%7C+Full-Stack+Developer;Building+scalable+products+with+clean+code;DSA+%7C+System+Design+%7C+Problem+Solving;Open+to+SDE+Opportunities+2027" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Arvind+%F0%9F%91%8B;Software+Engineer+%7C+Full-Stack+Developer;Building+scalable+products+with+clean+code;DSA+%7C+System+Design+%7C+Problem+Solving;Open+to+SDE+Opportunities+2027" alt="Typing SVG" />
 </a>
 
 <br/>
